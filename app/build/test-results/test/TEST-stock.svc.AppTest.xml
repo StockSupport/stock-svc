@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stock.svc.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-10T15:33:06" hostname="DESKTOP-MUT93AU" time="0.019">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="stock.svc.AppTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
